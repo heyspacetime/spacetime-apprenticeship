@@ -1,0 +1,21 @@
+# Table of contents
+
+* [Overview](README.md)
+* [🎬 Pre-Program](pre-program/README.md)
+  * [Onboarding](pre-program/onboarding.md)
+  * [Your First Assignments](pre-program/your-first-assignments.md)
+  * [Check-in meetings](pre-program/check-in-meetings.md)
+* [Week 1](week-1.md)
+* [Week 2](week-2.md)
+* [Week 3](week-3.md)
+* [Week 4](week-4.md)
+* [Week 5](week-5.md)
+* [Week 6](week-6.md)
+* [🎓 Graduation](graduation/README.md)
+  * [The Job Search](graduation/the-job-search.md)
+* [📘 Resources](resources/README.md)
+  * [Reading List](resources/reading-list.md)
+  * [Blog Posts to Write](resources/blog-posts-to-write.md)
+  * [People to Know](resources/people-to-know.md)
+  * [Firehose of Resources](resources/tools-to-use.md)
+
